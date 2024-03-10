@@ -1,0 +1,7 @@
+Install SpeechRecognition con pip install SpeechRecognition
+Install pyttsx3 con pip install pyttsx3
+Install pyaudio con pip install pyaudio
+URL https://www.amazon.es/s?k=
+
+Tienes que decir la palabra 'Amazon' para que el reconozca el comando 
+Y despues lo que quieres comprar ejplo 'teclado'
